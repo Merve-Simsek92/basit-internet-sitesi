@@ -1,1 +1,1 @@
-# basit-internet-sitesi-olu-turma
+# basit-internet-sitesi-oluşturma
